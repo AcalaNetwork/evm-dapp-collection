@@ -5,5 +5,5 @@ Good place to submit information ofAcala EVM Dapp.
 
 https://wiki.acala.network/learn/acala-evm/why-acala-evm
 
-### Submit evm dapp demo:
+### Submit EVM dapp demo:
 https://github.com/AcalaNetwork/evm-dapp-collection/issues/1
