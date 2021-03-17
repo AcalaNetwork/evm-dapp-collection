@@ -1,5 +1,5 @@
 # evm-dapp-collection
-Good place to submit information ofAcala EVM Dapp.
+Good place to submit information of Acala EVM Dapp.
 
 ### How to develop Acala EVM dapp?
 
